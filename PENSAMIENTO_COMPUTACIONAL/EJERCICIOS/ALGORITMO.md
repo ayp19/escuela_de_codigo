@@ -22,7 +22,7 @@ Fin
 # DESARROLLA UN ALGORITMO QUE CALCULE LA EDAD DE UNA PERSONA CON BASE A LA OBTENCION DE SU FECHA DE NACIMIENTO.
 Inicio
 
-Declarar (año actual, fecha de nacimiento, edad de una persona)
+Declarar (año actual, fecha de nacimiento, edad)
 
 Asignar ( año actual, fecha de nacimiento)
 
@@ -31,3 +31,31 @@ Operación (Edad =  año  actual- fecha de nacimiento)
 Mostrar (edad)
 
 Fin
+
+Algoritomo que calcule un determinado número de metros a yardas
+Inicio
+
+Declarar (yardas , número de metros)
+
+Asignar valor ( metros
+
+Operación (número de metros x 1.09 = yardas)
+
+Mostrar ( Yardas)
+
+Fin 
+
+
+
+Algoritmo que cualquier número lo multiplque por 9 
+
+Declarar( número, 9, resultado)
+
+Asignar ( numero)
+
+Operación (número * 9 = resultado)
+
+Mostrar (resultado)
+
+Fin
+
