@@ -8,3 +8,4 @@ NUMEROS DECIMALES:Son datos númericos con decimales y suelen identificarse con 
 CARACTER : Son formados por tipode caracteres  y suelen ser llamado tambien como  "a", "$", "c"
 
 CADENA DE CARACTERES :Son un dato compuesto que puede formar palabras, estar conformada por espacios y se deben de poner entre "". por ejemplo  "Programación","La clase de código es de Martes a viernes", etc. 
+
