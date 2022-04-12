@@ -1,6 +1,7 @@
 ## RETO
 1. Realizar un algoritmo y diagrama de flujo de un programa que solicite un número y lo multiplique por 9, mostrando su resultado.
 
+![image](https://user-images.githubusercontent.com/103067169/163034525-cb5e1e20-9c91-46fb-a5ee-f0c5beced0bc.png)
 
 
 3. Realizar el algoritmo y diagrama de flujo de un programa que solicite un numero de metros y los convierta a yardas, mostrando el resultado.
