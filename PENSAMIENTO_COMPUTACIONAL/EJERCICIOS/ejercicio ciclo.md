@@ -39,7 +39,7 @@ rest3 = rest2/ cont
 Fin 
 Finalg
 
-Digite el precio, si es  cero te diga que no es correcto o
+Digite el precio del producto, que los  sume pero si es cero te diga que no es correcto 
 
 
 
